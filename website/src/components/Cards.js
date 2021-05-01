@@ -5,7 +5,9 @@ import "./Cards.css";
 function Cards() {
   return (
     <div className="cards">
-      <h1>Missions</h1>
+      <a id="link" href="https://github.com/quinnha" target="_blank">
+        Missions
+      </a>
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">

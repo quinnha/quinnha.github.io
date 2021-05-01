@@ -16,7 +16,7 @@ function Astronaut() {
     <>
       quinn ha.
       <br />
-      {format}software dev
+      {format} software dev
       <br />
       {format} space enthusiast
       <br />
