@@ -40,3 +40,6 @@ p {
   font-size: 20px;
   color: #120e0d;
 }
+.rectangle {
+  max-width: 10%;
+}
